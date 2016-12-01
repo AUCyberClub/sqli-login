@@ -4,7 +4,7 @@ A login form that has SQLi vulnerability for educational purposes (PHP/MySQL).
 # usage
 - Install files on LAMP or WAMP server
 - Create database and configure via "config.php"
-- Import "table.sql"
+- Import "user.sql"
 - Start exploding boolean sqli.
 
 # issue
